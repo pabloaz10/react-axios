@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Johnaa doe1",
+      "email": "johndoa@gmail.com",
+      "password": "12345678",
+      "status": "ACTIVE",
+      "id": "2"
+    },
+    {
+      "id": "6391",
+      "name": "aaasdf",
+      "email": "asdfa@hamsdias.xocmz",
+      "password": "zdasd",
+      "status": "ative"
+    }
+  ]
+}
